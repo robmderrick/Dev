@@ -1,4 +1,0 @@
-Dev
-===
-
-simple dev scripts
